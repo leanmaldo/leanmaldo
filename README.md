@@ -1,16 +1,57 @@
-### Hi there 👋
+<h1 align="center">Hola 👋  soy Leandro / leanmaldo ✨ </h1> 
 
-<!--
-**leanmaldo/leanmaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://linkedin.com/in/leandro-maldonado-4938821ba" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@leanmaldo"/></a>
+<a href = "mailto:leanmaldonado@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@leanmaldo"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS Y ESTUDIANTE AVANZADO DE LA LICENCIATURA EN CIENCIA DE DATOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 estoy dando mis primeros pasos en el mundo de la Ciencia de Datos 
+
+📝 roles que me gustaría ocupar: analista de datos... científico de datos... ingeniero de datos... 
+
+📫 Contacto: **leanmaldonado@hotmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,github,docker,vscode,mongodb,bash,linux" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/leanmaldo/NTT_DATA_Retos" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@leanmaldo" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/leanmaldo/Human-Resource-Analytics" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@leanmaldo" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+
