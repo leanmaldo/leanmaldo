@@ -11,7 +11,7 @@
 <p align="left">
 🎓 LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS Y ESTUDIANTE AVANZADO DE LA LICENCIATURA EN CIENCIA DE DATOS
 
-💻 estoy dando mis primeros pasos en el mundo de la Ciencia de Datos 
+💻 Estoy dando mis primeros pasos en el mundo de la Ciencia de Datos 
 
 📝 roles que me gustaría ocupar: analista de datos... científico de datos... ingeniero de datos... 
 
